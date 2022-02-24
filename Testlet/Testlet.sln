@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_Testlet", "UnitTestProject_Testlet\UnitTestProject_Testlet.csproj", "{89CE406F-3398-4399-9BDA-9F94056CE7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testlet_cs", "Testlet_cs\Testlet_cs.csproj", "{95236E91-EA93-4E2A-A91C-B703665B1441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89CE406F-3398-4399-9BDA-9F94056CE7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CE406F-3398-4399-9BDA-9F94056CE7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CE406F-3398-4399-9BDA-9F94056CE7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CE406F-3398-4399-9BDA-9F94056CE7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95236E91-EA93-4E2A-A91C-B703665B1441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95236E91-EA93-4E2A-A91C-B703665B1441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95236E91-EA93-4E2A-A91C-B703665B1441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95236E91-EA93-4E2A-A91C-B703665B1441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BC144B-6D2B-43FF-8144-F3A378A2A0F0}
+	EndGlobalSection
+EndGlobal
